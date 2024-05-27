@@ -25,8 +25,12 @@ public class Literal {
 
         // Float Literal
         // Double
-        double doub = 1234;
+        double doub = 1234.567;
         System.out.println(doub);
+
+        // Float
+        float fl = 123.456f;
+        System.out.println(fl);
 
         // Using e
         double useEinNo = 1234e23;
@@ -39,6 +43,7 @@ public class Literal {
         boolean no = false;
         System.out.println(no);
 
+        // Charecter
         char alpha = 'a';
 
         System.out.println(alpha);
