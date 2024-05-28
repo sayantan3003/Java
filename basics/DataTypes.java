@@ -1,4 +1,4 @@
-package Basics;
+package basics;
 
 /**
  * We can divide Data Types into two categories,

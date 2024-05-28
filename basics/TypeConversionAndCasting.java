@@ -1,4 +1,4 @@
-package Basics;
+package basics;
 
 // To compile+run this command, use java TypeConversionAndCasting.java
 public class TypeConversionAndCasting {
