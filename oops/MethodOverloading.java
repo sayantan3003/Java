@@ -1,6 +1,6 @@
 package oops;
 
-class Calculator   {
+class B   {
     // Here add method is overloaded 
     int add(int n1, int n2) {
         return n1 + n2;
@@ -25,7 +25,7 @@ class Calculator   {
 
 public class MethodOverloading {
     public static void main(String[] args) {
-        Calculator calc = new Calculator();
+        B calc = new B();
 
         int num1 = calc.add(23, 12);
         double num2 = calc.add(23.152, 12);
